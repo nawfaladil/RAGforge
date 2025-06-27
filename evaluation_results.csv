@@ -1,0 +1,14 @@
+id,question,expected,generated,similarity
+370,What are some of the benefits and opportunities offered by Advanced Drainage Systems?,"Advanced Drainage Systems offers a complete benefits package including medical, dental, vision, flexible spending accounts, company-paid life and AD&D insurance, short-term and long-term disability programs, and a profit sharing plan (401k). They also offer a $2,000 sign-on bonus, paid holidays/vacation days, bereavement pay, jury duty, military leave, rapid career growth opportunities and certifications, and hands-on training. The company also provides a work schedule that allows for work-life balance and personal savings.","Sure, here are the benefits and opportunities offered by Advanced Drainage Systems:
+
+- Complete Benefits Package
+- $2,000 Sign-On Bonus
+- Paid Holidays/Vacation Days, Bereavement Pay, Jury Duty, Military Leave
+- Rapid Career Growth Opportunities and Certifications
+- Hands on Training
+- Flexible Spending Accounts
+- Profit Sharing Plan (401k)",0.875
+31,What is the main purpose of the computer built in the summer of 2018?,"The main purpose of the computer is mainly gaming, 3D modeling, a ton of college work, and to be overkill.","The main purpose of the computer built in the summer of 2018 was not specified in the context, so I cannot answer this question from the provided context.",0.5321
+81,Who was the CEO and treasurer of the host committee for the 2008 Republican National Convention?,Jeff Larson was the CEO and treasurer of the host committee for the 2008 Republican National Convention.,The CEO and treasurer of the host committee for the 2008 Republican National Convention was Jeff Larson.,0.9881
+203,What event led to the rise of bank shares in the Toronto's main stock index?,"The positive U.S. earnings lifted bank shares, specifically the better-than-expected quarterly profit reported by U.S. bank Citigroup.","The rise of bank shares in the Toronto's main stock index was influenced by the positive U.S. earnings, which lifted bank shares to offset the weakness in the miners.",0.7693
+123,What is the process for renewing a passport according to Sanjay Jagatsingh's post?,"To renew a passport, one needs to fill in the 2-page form, grab two recent pictures, their NIC along with the old passport and head to one of the 6 police district headquarters with the applicable fees (between 400 and 700 rupees). They can then return within a week and the new passport should be ready.","The context does not mention anything about the process for renewing a passport according to Sanjay Jagatsingh's post, so I cannot answer this question from the provided context.",0.6989

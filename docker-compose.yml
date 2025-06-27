@@ -1,0 +1,26 @@
+services:
+  rag_llm:
+    image: ollama/ollama
+    container_name: rag_llm_service
+    ports:
+      - "11434:11434"
+    volumes:
+      - rag_llm_data:/root/.ollama
+    restart: unless-stopped
+
+  vector_db:
+    image: ankane/pgvector  # Official PostgreSQL with pgvector extension
+    container_name: vector_database
+    environment:
+      POSTGRES_USER: rag_user
+      POSTGRES_PASSWORD: rag_password
+      POSTGRES_DB: rag_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - db_persistence:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  rag_llm_data:
+  db_persistence:
